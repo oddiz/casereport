@@ -27,4 +27,4 @@ The clearest single piece of mechanistic evidence in the vault: radiotherapy →
 ## Related
 - [[Theme - Lymphatic Regeneration and Mechanism]]
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

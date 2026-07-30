@@ -45,4 +45,4 @@ Every quote and paraphrase in the original notes was checked against the extract
 > Accurate for the pre-planned ICG-only group in Vyas et al., but 2 more patients became ICG-only-by-necessity after radiocolloid failure (31 total ICG-only experience). Not wrong, just know the nuance if a reviewer asks.
 
 ## Related
-[[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+[[content/index|↩ Back to MOC]]

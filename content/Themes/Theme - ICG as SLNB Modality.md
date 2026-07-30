@@ -20,4 +20,4 @@ Central question: can indocyanine green, used alone or as the decisive intraoper
 
 ## Related
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

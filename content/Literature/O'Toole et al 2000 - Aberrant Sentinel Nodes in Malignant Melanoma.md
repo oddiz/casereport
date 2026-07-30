@@ -23,4 +23,4 @@ Don't cite this as support for our case's aberrant-*pathway* claim — it would 
 ## Related
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
 - [[Uren, Howman-Giles and Thompson 2003 - Patterns of Lymphatic Drainage from the Skin in Melanoma]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

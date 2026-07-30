@@ -21,4 +21,4 @@ Another data point for "ICG performs at parity with dual-tracer confirmation" �
 ## Related
 - [[Theme - ICG as SLNB Modality]]
 - [[Vyas et al 2025 - ICG-only SLNB in Head and Neck Melanoma]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

@@ -22,4 +22,4 @@ Two useful numbers for the Discussion: the wide lymphoedema range after SLNB, an
 ## Related
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
 - [[Chowdhury et al - Truncal Melanoma Contralateral SLN Drainage Prevalence]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

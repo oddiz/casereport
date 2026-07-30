@@ -36,4 +36,4 @@ This is a stronger comparator than previously credited. The **18-year latency** 
 - [[Uren, Howman-Giles and Thompson 2003 - Patterns of Lymphatic Drainage from the Skin in Melanoma]]
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
 - [[Case Overview - Recurrent Truncal Melanoma with Contralateral Axillary SLN]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

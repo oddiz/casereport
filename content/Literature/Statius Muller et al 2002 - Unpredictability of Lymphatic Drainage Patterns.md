@@ -26,4 +26,4 @@ Published the same year as [[Uren, Howman-Giles and Thompson 2003 - Patterns of 
 - [[Uren, Howman-Giles and Thompson 2003 - Patterns of Lymphatic Drainage from the Skin in Melanoma]]
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
 - [[Chowdhury et al - Truncal Melanoma Contralateral SLN Drainage Prevalence]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

@@ -28,4 +28,4 @@ Useful for the Discussion: shows the field is actively debating exactly the two 
 ## Related
 - [[Vyas et al 2025 - ICG-only SLNB in Head and Neck Melanoma]]
 - [[Theme - ICG as SLNB Modality]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

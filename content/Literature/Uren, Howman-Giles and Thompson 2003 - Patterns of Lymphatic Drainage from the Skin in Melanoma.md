@@ -36,4 +36,4 @@ Two distinct contributions to the manuscript now: (1) the quantitative table abo
 - [[Theme - Lymphatic Regeneration and Mechanism]]
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
 - [[Case Overview - Recurrent Truncal Melanoma with Contralateral Axillary SLN]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

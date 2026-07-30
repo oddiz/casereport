@@ -18,4 +18,4 @@ Could be used as a light, real-world illustration of the resource-access problem
 
 ## Related
 - [[Theme - ICG as SLNB Modality]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

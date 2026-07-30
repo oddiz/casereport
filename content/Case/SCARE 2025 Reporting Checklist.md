@@ -27,4 +27,4 @@ Live checklist — tick off as each section is drafted. Full item-by-item guidan
 - [ ] 19. Figure legends
 
 ## Related
-[[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+[[content/index|↩ Back to MOC]]

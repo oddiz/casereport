@@ -24,4 +24,4 @@ Confirms the BMI-dependent limitation is real, not anecdotal. Also good evidence
 ## Related
 - [[Theme - ICG as SLNB Modality]]
 - [[Matteucci et al - ICG vs Tc-99m Meta-Analysis]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

@@ -23,4 +23,4 @@ This is the mouse-model mechanistic backbone for "why does drainage redirect con
 ## Related
 - [[Theme - Lymphatic Regeneration and Mechanism]]
 - [[Yan et al - Mechanisms of Lymphatic Regeneration After Tissue Transfer]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

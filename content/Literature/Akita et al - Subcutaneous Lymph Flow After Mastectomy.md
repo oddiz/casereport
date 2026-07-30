@@ -22,4 +22,4 @@ Supports the general principle that contralateral rerouting is a common, expecte
 ## Related
 - [[Theme - Lymphatic Regeneration and Mechanism]]
 - [[Sato et al - Altered Lymphatic Drainage Patterns in Re-SLNB (Radiotherapy Effect)]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

@@ -30,4 +30,4 @@ This is our closest epidemiological comparator — same drainage direction quest
 - [[Jitworawisut and Tsukuura - Letter on Intraluminal Pressure Hypothesis]] — response letter to this paper
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
 - [[Case Overview - Recurrent Truncal Melanoma with Contralateral Axillary SLN]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

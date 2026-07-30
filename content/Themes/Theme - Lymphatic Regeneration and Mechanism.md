@@ -17,4 +17,4 @@ Obstruction/removal of the ipsilateral pathway (surgery, radiotherapy, tumour in
 
 ## Related
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

@@ -22,4 +22,4 @@ Useful supporting evidence that ICG lymphography can visualise altered/aberrant 
 
 ## Related
 - [[Theme - Lymphatic Regeneration and Mechanism]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

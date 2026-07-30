@@ -20,4 +20,4 @@ Did ICG identify the contralateral node independently of what Tc-99m had already
 ## Related
 - [[Case Overview - Recurrent Truncal Melanoma with Contralateral Axillary SLN]]
 - [[Theme - ICG as SLNB Modality]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

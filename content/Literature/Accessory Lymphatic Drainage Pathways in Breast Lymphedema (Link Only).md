@@ -38,4 +38,4 @@ Directly useful for the mechanism paragraph: gives a real percentage (17.9%) for
 - [[Theme - Lymphatic Regeneration and Mechanism]]
 - [[Kwon et al - Lymphatic Contractility and Drainage After Lymphadenectomy (Mouse Model)]]
 - [[Heydon-White et al - ICG Lymphography for Breast Lymphoedema]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

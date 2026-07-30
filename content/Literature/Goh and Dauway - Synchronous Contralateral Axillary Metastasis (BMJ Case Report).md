@@ -23,4 +23,4 @@ Closely mirrors our case's structure (surgical clearance history → contralater
 ## Related
 - [[CAM in Breast Cancer - IJSCR Case Report (Link Only)]] — separate case, different incidence figure quoted, no PDF to verify
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

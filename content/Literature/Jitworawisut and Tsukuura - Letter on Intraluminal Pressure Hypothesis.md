@@ -28,4 +28,4 @@ This is the mechanistic hypothesis our Discussion needs — obstruction → pres
 ## Related
 - [[Chowdhury et al - Truncal Melanoma Contralateral SLN Drainage Prevalence]]
 - [[Theme - Lymphatic Regeneration and Mechanism]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

@@ -19,4 +19,4 @@ Background mechanism reading — no direct quote pulled yet. Useful if the Discu
 ## Related
 - [[Theme - Lymphatic Regeneration and Mechanism]]
 - [[Kwon et al - Lymphatic Contractility and Drainage After Lymphadenectomy (Mouse Model)]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

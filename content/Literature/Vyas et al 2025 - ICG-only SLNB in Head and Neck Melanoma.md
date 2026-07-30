@@ -27,4 +27,4 @@ This is the main article underpinning the case — a good supporting example of 
 - [[Theme - ICG as SLNB Modality]]
 - [[Matteucci et al - ICG vs Tc-99m Meta-Analysis]]
 - [[Case Overview - Recurrent Truncal Melanoma with Contralateral Axillary SLN]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

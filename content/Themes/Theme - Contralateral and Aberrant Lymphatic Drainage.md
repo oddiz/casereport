@@ -36,4 +36,4 @@ Central question: how often does lymphatic drainage cross to the contralateral s
 ## Related
 - [[Theme - Lymphatic Regeneration and Mechanism]]
 - [[Theme - ICG as SLNB Modality]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

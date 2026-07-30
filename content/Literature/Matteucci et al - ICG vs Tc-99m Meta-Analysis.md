@@ -20,4 +20,4 @@ The most important counterweight in the whole vault to an "ICG-alone" framing �
 ## Related
 - [[Theme - ICG as SLNB Modality]]
 - [[Vyas et al 2025 - ICG-only SLNB in Head and Neck Melanoma]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]

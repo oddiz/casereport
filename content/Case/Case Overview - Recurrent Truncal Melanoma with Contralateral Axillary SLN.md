@@ -42,4 +42,4 @@ Unlike all of these, our case combines a documented prior ipsilateral nodal proc
 ## Related
 - [[Theme - Contralateral and Aberrant Lymphatic Drainage]]
 - [[Theme - ICG as SLNB Modality]]
-- [[00 MOC - Melanoma Contralateral SLN Case|↩ Back to MOC]]
+- [[content/index|↩ Back to MOC]]
